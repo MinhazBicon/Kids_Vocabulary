@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NumberCount123_Activity"
+    android:weightSum="4"
+    android:background="@drawable/number_counting_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:padding="12dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:weightSum="4"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_marginLeft="200dp"
+            android:layout_weight="1.2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/number_counting_title"
+            android:scaleType="fitCenter"
+            />
+
+        <ImageButton
+            android:layout_weight="2.8"
+
+            android:padding="3dp"
+            android:layout_marginLeft="140dp"
+            android:id="@+id/imageButtonX"
+            style="@android:style/Holo.ButtonBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitStart"
+            android:src="@drawable/close_button" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="5"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            style="@android:style/Holo.ButtonBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/number_1"
+            android:scaleType="fitCenter"
+            />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            style="@android:style/Holo.ButtonBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/number_2"
+            android:scaleType="fitCenter"
+            />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_weight="1"
+            style="@android:style/Holo.ButtonBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/number_3"
+            android:scaleType="fitCenter"
+            />
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_weight="1"
+            style="@android:style/Holo.ButtonBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/number_4"
+            android:scaleType="fitCenter"
+            />
+
+        <ImageButton
+            android:id="@+id/imageButton5"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/number_5"
+            style="@android:style/Holo.ButtonBar"
+            android:scaleType="fitCenter"
+            />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:weightSum="5"
+        android:orientation="horizontal"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:id="@+id/imageButton6"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/number_6"
+            style="@android:style/Holo.ButtonBar"
+            android:scaleType="fitCenter"
+            />
+        <ImageButton
+            android:id="@+id/imageButton7"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/number_7"
+            style="@android:style/Holo.ButtonBar"
+            android:scaleType="fitCenter"
+            />
+        <ImageButton
+            android:id="@+id/imageButton8"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/number_8"
+            style="@android:style/Holo.ButtonBar"
+            android:scaleType="fitCenter"
+            />
+        <ImageButton
+            android:id="@+id/imageButton9"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/number_9"
+            style="@android:style/Holo.ButtonBar"
+            android:scaleType="fitCenter"
+            />
+        <ImageButton
+            android:id="@+id/imageButton10"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/number_10"
+            style="@android:style/Holo.ButtonBar"
+            android:scaleType="fitCenter"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:padding="12dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_marginTop="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/number_counting_click_to_play"
+            android:scaleType="fitCenter"
+            />
+    </LinearLayout>
+
+</LinearLayout>

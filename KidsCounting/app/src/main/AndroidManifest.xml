@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kidscounting">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/toy"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreen"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".NumberCount123_Activity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Home_Activities"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".AppleCount_Activity"
+            android:screenOrientation="landscape" />
+        <activity android:name=".Puzzle_game_Activity"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity android:name=".PopUp_Window"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.CustomTheme">
+        </activity>
+
+    </application>
+
+</manifest>
