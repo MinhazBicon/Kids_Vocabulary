@@ -17,27 +17,14 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfd00da6-c1a3-4407-8b6e-14ea2f47bd39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-large/activity_apple_count_activity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-normal/activity_apple_count_activity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-small/activity_home__activities.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-xlarge/activity_apple_count_activity.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/AppleCount_activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/AppleCount_Activity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/Home_Activities.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/Home_Activities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/NumberCount123_Activity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/Pop.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/PopUp_Window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/Puzzle_game_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/Puzzle_game_Activity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/splashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/SplashScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_apple_count_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_apple_count_activity.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home__activities.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home__activities.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_puzzle_game.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_puzzle_game.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/PopUp_Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kidscounting/PopUp_Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +72,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="G:/ShopKeepers_Payment_Due_list/ShopKeepers" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -213,26 +200,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593194872803" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1593321128654">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1593630824529">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593321128654" />
-    <state width="1323" height="45" key="GridCell.Tab.0.bottom" timestamp="1593447043975">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593630824529" />
+    <state width="1306" height="93" key="GridCell.Tab.0.bottom" timestamp="1593630805399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="45" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593447043975" />
-    <state width="1323" height="45" key="GridCell.Tab.0.center" timestamp="1593447043975">
+    <state width="1306" height="93" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593630805399" />
+    <state width="1306" height="93" key="GridCell.Tab.0.center" timestamp="1593630805399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="45" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593447043975" />
-    <state width="1323" height="45" key="GridCell.Tab.0.left" timestamp="1593447043974">
+    <state width="1306" height="93" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593630805399" />
+    <state width="1306" height="93" key="GridCell.Tab.0.left" timestamp="1593630805397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="45" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593447043974" />
-    <state width="1323" height="45" key="GridCell.Tab.0.right" timestamp="1593447043975">
+    <state width="1306" height="93" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593630805397" />
+    <state width="1306" height="93" key="GridCell.Tab.0.right" timestamp="1593630805399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="45" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593447043975" />
+    <state width="1306" height="93" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593630805399" />
     <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1593329814425">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -241,10 +228,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="49" y="121" width="1182" height="544" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1593527784605" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593528905383">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593630791311">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593528905383" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593630791311" />
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593194862719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

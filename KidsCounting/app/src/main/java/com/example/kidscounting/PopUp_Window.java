@@ -13,17 +13,12 @@ import androidx.annotation.Nullable;
 
 
 public class PopUp_Window extends Activity {
-    private ImageView PopUp;
     int flag = R.drawable.popup_background;
-    private Puzzle_game_Activity puzzle_game_activity;
-
+    private ImageView PopUp;
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.popup_window);
-
-        //creating object of Puzzle_game_Activity class
-        puzzle_game_activity  = new Puzzle_game_Activity();
 
         PopUp = findViewById(R.id.PopUp_id);
 
